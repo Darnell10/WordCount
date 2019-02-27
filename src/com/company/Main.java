@@ -18,7 +18,7 @@ public class Main {
         // variable used to store the number of words in the file.
         int words = 0;
 
-        // hasNextLine is a boolean method that returns true if there is a Nextline
+        // hasNextLine is a boolean method that returns true if there is a Next line.
         while (scanner.hasNextLine()){
             //takes scanner to read nextline
             String line = scanner.nextLine();
